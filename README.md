@@ -1,6 +1,8 @@
-# Practice React
+### Practice React
 
-Practice React is a website that I have used to pratice building Reat APP. It is 
+    - Practice React is a website that I have used to pratice building Reat APP.
+
+    - npx create-react-app Practice-React
 
 ## Built With
 
